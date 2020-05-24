@@ -92,7 +92,7 @@ class User extends Model {
 }
 ```
 
-You can learn more about Models at [Defining Models](../components/models.md).
+You can learn more about Models at [Defining Models](/guide/model/defining-models.md).
 
 ### Register Models to Vuex
 
